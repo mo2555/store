@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "606065393926",
+    "project_id": "helatna-79248",
+    "storage_bucket": "helatna-79248.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606065393926:android:a17446a0cbbd5ae9e65e87",
+        "android_client_info": {
+          "package_name": "com.helatna.ashlprodel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDA29NU1U4rCwMoYHmVzFF3C1QDL_HArk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606065393926:android:2100e589b70b62fbe65e87",
+        "android_client_info": {
+          "package_name": "com.helatna.ashlproshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDA29NU1U4rCwMoYHmVzFF3C1QDL_HArk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606065393926:android:de23d60389500850e65e87",
+        "android_client_info": {
+          "package_name": "com.helatna.ashlprouser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDA29NU1U4rCwMoYHmVzFF3C1QDL_HArk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
